@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://999-99.github.io</id>
+    <title>Young</title>
+    <updated>2022-09-12T09:05:28.392Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://999-99.github.io"/>
+    <link rel="self" href="https://999-99.github.io/atom.xml"/>
+    <subtitle>找寻华丽的简约</subtitle>
+    <logo>https://999-99.github.io/images/avatar.png</logo>
+    <icon>https://999-99.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Young</rights>
+    <entry>
+        <title type="html"><![CDATA[软件工程知识概要]]></title>
+        <id>https://999-99.github.io/ruan-jian-gong-cheng-zhi-shi-gai-yao/</id>
+        <link href="https://999-99.github.io/ruan-jian-gong-cheng-zhi-shi-gai-yao/">
+        </link>
+        <updated>2022-09-12T08:11:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员学习的基础心态]]></title>
+        <id>https://999-99.github.io/psychology/</id>
+        <link href="https://999-99.github.io/psychology/">
+        </link>
+        <updated>2022-09-08T10:47:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享前端学习路线]]></title>
+        <id>https://999-99.github.io/di-yi-ci-shi-yong-gridea-xie-bo-ke/</id>
+        <link href="https://999-99.github.io/di-yi-ci-shi-yong-gridea-xie-bo-ke/">
+        </link>
+        <updated>2022-09-08T09:49:15.000Z</updated>
+    </entry>
+</feed>
